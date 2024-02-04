@@ -1,5 +1,3 @@
-# tinyUrl Project
-
 ## Description
 
 The tinyUrl project is a Java-based application designed to create shortened URLs, similar to services like bit.ly or TinyURL. This application provides an API to shorten URLs, manage them, and track their usage.
